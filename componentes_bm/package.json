@@ -14,7 +14,7 @@
     "vue": "^2.6.11",
     "vue-router": "^3.2.0",
     "vuetify": "^2.6.0",
-    "vuetify-more-component": "file:../vuetify-components/vuetify-more-component",
+    "vuetify-more-component": "C:/Users/marco/OneDrive/Documents/ARCHIVOS 2022/npm_vuetify_components/vuetify-more-component",
     "vuex": "^3.4.0"
   },
   "devDependencies": {

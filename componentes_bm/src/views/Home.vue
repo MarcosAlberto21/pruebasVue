@@ -12,7 +12,6 @@
 
           </v-data-table>
         </v-card>
-
       </div>
     </v-main>
   </v-app>
